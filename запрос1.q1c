@@ -3,6 +3,7 @@
 	<query name="Новый запрос">
 		<text>ВЫБРАТЬ
 	2 КАК Поле1
+		3 КАК Поле2
 </text>
 	</query>
 </querylist>
